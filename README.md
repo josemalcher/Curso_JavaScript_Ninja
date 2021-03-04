@@ -49,7 +49,13 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte1">1 - Aula #01</a>
 
-
+1. Introdução - :heavy_check_mark:
+2. Variáveis e tipos de dados
+3. Operadores aritméticos
+4. Operadores de igualdade e relacionais
+5. Funções
+6. Sobre o envio dos desafios
+7. Desafio da semana #01
 
 [Voltar ao Índice](#indice)
 
