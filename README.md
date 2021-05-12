@@ -12,22 +12,28 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="indice">Índice</a>
 
-1. [Aula #01](#parte1)     
-    1. Introdução
-    2. Variáveis e tipos de dados
-    3. Operadores aritméticos
-    4. Operadores de igualdade e relacionais
-    5. Funções
-    6. Sobre o envio dos desafios
-    7. Desafio da semana #01
+1. [Aula #01](#parte1)
+   - Introdução
+   - Variáveis e tipos de dados
+   - Operadores aritméticos
+   - Operadores de igualdade e relacionais
+   - Funções
+   - Sobre o envio dos desafios
+   - Desafio da semana #01
 2. [Aula #02](#parte2)     
-   8. Revisão Desafio da semana #01
-   9. Operadores Lógicos
-   10. Operadores Unários
-   11. Estrutura Léxica
-   12. Instruções condicionais - IF
-   13. Desafio da semana #02
+   - Revisão Desafio da semana #01
+   - Operadores Lógicos
+   - Operadores Unários
+   - Estrutura Léxica
+   - Instruções condicionais - IF
+   - Desafio da semana #02
 3. [Aula #03](#parte3)     
+   - Revisão do desafio da semana 02 - Parte 1
+   - Revisão do desafio da semana 02 - Parte 2
+   - Revisão do desafio da semana 02 - Parte 3
+   - Tipos de dados e objetos
+   - Métodos de objeto
+   - Métodos de objeto (continuação) e desafio da semana #03
 4. [Aula #04](#parte4)     
 5. [Aula #05](#parte5)     
 6. [Aula #06](#parte6)     
@@ -96,7 +102,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte3">3 - Aula #03</a>
 
+14. Revisão do desafio da semana 02 - Parte 1
+15. Revisão do desafio da semana 02 - Parte 2
+16. Revisão do desafio da semana 02 - Parte 3
+17. Tipos de dados e objetos
+18. Métodos de objeto
+19. Métodos de objeto (continuação) e desafio da semana #03
 
+[Aula-003/desafio-03.js](Aula-003/desafio-03.js)
 
 [Voltar ao Índice](#indice)
 
