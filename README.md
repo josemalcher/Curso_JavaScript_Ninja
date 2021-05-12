@@ -2,6 +2,8 @@
 
 https://www.udemy.com/course/curso-javascript-ninja/
 
+[Desafios: github.com/da2k/curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+
 O curso para aprender JavaScript DE VERDADE! 
 
 O objetivo desse curso é ensinar JavaScript DE VERDADE! Se você já está a muito tempo tentando estudar sozinho, mas não consegue compreender essa linda linguagem, esse curso é para VOCÊ! A ideia principal do curso é dar um Treinamento Ninja, para que o aluno saia com todo o conhecimento necessário para se virar sozinho com a linguagem, sem depender de bibliotecas ou frameworks. 
@@ -11,14 +13,20 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 ## <a name="indice">Índice</a>
 
 1. [Aula #01](#parte1)     
-    - Introdução
-    - Variáveis e tipos de dados
-    - Operadores aritméticos
-    - Operadores de igualdade e relacionais
-    - Funções
-    - Sobre o envio dos desafios
-    - Desafio da semana #01
+    1. Introdução
+    2. Variáveis e tipos de dados
+    3. Operadores aritméticos
+    4. Operadores de igualdade e relacionais
+    5. Funções
+    6. Sobre o envio dos desafios
+    7. Desafio da semana #01
 2. [Aula #02](#parte2)     
+   8. Revisão Desafio da semana #01
+   9. Operadores Lógicos
+   10. Operadores Unários
+   11. Estrutura Léxica
+   12. Instruções condicionais - IF
+   13. Desafio da semana #02
 3. [Aula #03](#parte3)     
 4. [Aula #04](#parte4)     
 5. [Aula #05](#parte5)     
@@ -70,10 +78,16 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ---
 
-
 ## <a name="parte2">2 - Aula #02</a>
 
+8. Revisão Desafio da semana #01
+9. Operadores Lógicos
+10. Operadores Unários
+11. Estrutura Léxica
+12. Instruções condicionais - IF
+13. Desafio da semana #02
 
+[Aula-002/desafio-02.js](Aula-002/desafio-02.js)
 
 [Voltar ao Índice](#indice)
 
