@@ -35,6 +35,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - Métodos de objeto
    - Métodos de objeto (continuação) e desafio da semana #03
 4. [Aula #04](#parte4)     
+   - Revisão do desafio da semana 03 - Parte 1
+   - Revisão do desafio da semana 03 - Parte 2
+   - Truthy e Falsy
+   - Condicional Ternário
+   - Escopo de variáveis e funções
+   - Desafio da semana #04
 5. [Aula #05](#parte5)     
 6. [Aula #06](#parte6)     
 7. [Aula #07](#parte7)     
@@ -118,7 +124,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte4">4 - Aula #04</a>
 
+20. Revisão do desafio da semana 03 - Parte 1
+21. Revisão do desafio da semana 03 - Parte 2
+22. Truthy e Falsy
+23. Condicional Ternário
+24. Escopo de variáveis e funções
+25. Desafio da semana #04
 
+[Aula-004/desafio-04.js](Aula-004/desafio-04.js)
 
 [Voltar ao Índice](#indice)
 
