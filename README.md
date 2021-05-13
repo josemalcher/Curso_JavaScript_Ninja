@@ -42,6 +42,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - Escopo de variáveis e funções
    - Desafio da semana #04
 5. [Aula #05](#parte5)     
+   - Revisão do desafio da semana #04 - Parte 1
+   - Revisão do desafio da semana #04 - Parte 2
+   - Revisão do desafio da semana #04 - Parte 3
+   - Retorno de funções com arrays e objetos
+   - Parâmetros de Funções como arrays e objetos
+   - Desafio da semana #05
 6. [Aula #06](#parte6)     
 7. [Aula #07](#parte7)     
 8. [Aula #08](#parte8)     
@@ -140,7 +146,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte5">5 - Aula #05</a>
 
+26. Revisão do desafio da semana #04 - Parte 1
+27. Revisão do desafio da semana #04 - Parte 2
+28. Revisão do desafio da semana #04 - Parte 3
+29. Retorno de funções com arrays e objetos
+30. Parâmetros de Funções como arrays e objetos
+31. Desafio da semana #05
 
+[Aula-005/desafio-05.js](Aula-005/desafio-05.js)
 
 [Voltar ao Índice](#indice)
 
