@@ -56,6 +56,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - Operador virgula e estrutura condicional switch
    - Estrutura de repetição While e desafio da semana #06
 7. [Aula #07](#parte7)     
+   - Revisão do desafio da semana #06 - Parte 1
+   - Revisão do desafio da semana #06 - Parte 2
+   - O operador módulo
+   - Arrays - a propriedade length
+   - Arrays - método "push()" e Loop "for"
+   - Desafio da semana #07
 8. [Aula #08](#parte8)     
 9. [Aula #09](#parte9)     
 10. [Aula #10](#parte10)     
@@ -184,6 +190,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte7">7 - Aula #07</a>
 
+38. Revisão do desafio da semana #06 - Parte 1
+39. Revisão do desafio da semana #06 - Parte 2
+40. O operador módulo
+41. Arrays - a propriedade length
+42. Arrays - método "push()" e Loop "for"
+43. Desafio da semana #07
+
+[Aula-007/desafio-07.js](Aula-007/desafio-07.js)
 
 
 [Voltar ao Índice](#indice)
