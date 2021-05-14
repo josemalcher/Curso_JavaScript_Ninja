@@ -49,6 +49,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - Parâmetros de Funções como arrays e objetos
    - Desafio da semana #05
 6. [Aula #06](#parte6)     
+   - Revisão Desafio da semana #05 - Parte 1
+   - Revisão Desafio da semana #05 - parte 2
+   - Revisão Desafio da semana #05 - parte 3
+   - Revisão Desafio da semana #05 - parte 4
+   - Operador virgula e estrutura condicional switch
+   - Estrutura de repetição While e desafio da semana #06
 7. [Aula #07](#parte7)     
 8. [Aula #08](#parte8)     
 9. [Aula #09](#parte9)     
@@ -162,7 +168,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte6">6 - Aula #06</a>
 
+32. Revisão Desafio da semana #05 - Parte 1
+33. Revisão Desafio da semana #05 - parte 2
+34. Revisão Desafio da semana #05 - parte 3
+35. Revisão Desafio da semana #05 - parte 4
+36. Operador virgula e estrutura condicional switch
+37. Estrutura de repetição While e desafio da semana #06
 
+[Aula-006/desafio-06.js](Aula-006/desafio-06.js)
 
 [Voltar ao Índice](#indice)
 
