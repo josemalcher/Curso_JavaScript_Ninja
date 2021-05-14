@@ -63,6 +63,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - Arrays - método "push()" e Loop "for"
    - Desafio da semana #07
 8. [Aula #08](#parte8)     
+   - Revisão Desafio semana #07
+   - A importância de nomear funções
+   - Introdução à Functional Programming
+   - Functional Programming - parte 2
+   - Functional Programming - parte 3
+   - Desafio da semana #08
 9. [Aula #09](#parte9)     
 10. [Aula #10](#parte10)     
 11. [Aula #11](#parte11)     
@@ -207,7 +213,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte8">8 - Aula #08</a>
 
+44. Revisão Desafio semana #07
+45. A importância de nomear funções
+46. Introdução à Functional Programming
+47. Functional Programming - parte 2
+48. Functional Programming - parte 3
+49. Desafio da semana #08
 
+[Aula-008/desafio-08.js](Aula-008/desafio-08.js)
 
 [Voltar ao Índice](#indice)
 
