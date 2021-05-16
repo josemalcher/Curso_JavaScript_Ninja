@@ -229,7 +229,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte9">9 - Aula #09</a>
 
+50. Revisão desafio semana #08 - Parte 1
+51. Revisão desafio semana #08 - Parte 2
+52. Escopo de funções
+53. hoisting
+54. IIFE - Immediately-Invoked Function Expression
+55. Desafio semana #09
 
+[Aula-009/desafio-09.js](Aula-009/desafio-09.js)
 
 [Voltar ao Índice](#indice)
 
