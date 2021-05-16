@@ -70,7 +70,19 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - Functional Programming - parte 3
    - Desafio da semana #08
 9. [Aula #09](#parte9)     
+   - Revisão desafio semana #08 - Parte 1
+   - Revisão desafio semana #08 - Parte 2
+   - Escopo de funções
+   - hoisting
+   - IIFE - Immediately-Invoked Function Expression
+   - Desafio semana #09
 10. [Aula #10](#parte10)     
+   - Revisão desafio da semana #09 - Parte 1
+   - Revisão desafio da semana #09 - Parte 2
+   - Revisão desafio da semana #09 - Parte 3
+   - Wrapper Objects
+   - typeof
+   - Desafio da semana #10
 11. [Aula #11](#parte11)     
 12. [Aula #12](#parte12)     
 13. [Aula #13](#parte13)     
@@ -245,7 +257,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte10">10 - Aula #10</a>
 
+56. Revisão desafio da semana #09 - Parte 1
+57. Revisão desafio da semana #09 - Parte 2
+58. Revisão desafio da semana #09 - Parte 3
+59. Wrapper Objects
+60. typeof
+61. Desafio da semana #10
 
+[Aula-010/desafio-10.js](Aula-010/desafio-10.js)
 
 [Voltar ao Índice](#indice)
 
