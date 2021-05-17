@@ -273,7 +273,15 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte11">11 - Aula #11</a>
 
+62. Revisão desafio semana #10 - Parte 1
+63. Revisão desafio semana #10 - parte 2
+64. Errata correção do desafio a semana #10 (próximo vídeo)
+65. Revisão desafio semana #10 - parte 3
+66. Laços (Loops)
+67. Saltos
+68. Desafio semana #11
 
+[Aula-011/desafio-11.js](Aula-011/desafio-11.js)
 
 [Voltar ao Índice](#indice)
 
