@@ -84,7 +84,20 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - typeof
    - Desafio da semana #10
 11. [Aula #11](#parte11)     
+   - Revisão desafio semana #10 - Parte 1
+   - Revisão desafio semana #10 - parte 2
+   - Errata correção do desafio a semana #10 (próximo vídeo)
+   - Revisão desafio semana #10 - parte 3
+   - Laços (Loops)
+   - Saltos
+   - Desafio semana #11
 12. [Aula #12](#parte12)     
+   - Revisão desafio semana #11 - Parte 1
+   - Revisão desafio semana #11 - parte 2
+   - Criação de objetos
+   - Criação de objetos - Object.create
+   - Métodos de objeto
+   - Arrays - Métodos
 13. [Aula #13](#parte13)     
 14. [Aula #14](#parte14)     
 15. [Aula #15](#parte15)     
@@ -290,7 +303,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte12">12 - Aula #12</a>
 
+69. Revisão desafio semana #11 - Parte 1
+70. Revisão desafio semana #11 - parte 2
+71. Criação de objetos
+72. Criação de objetos - Object.create
+73. Métodos de objeto
+74. Arrays - Métodos
 
+[Aula-012/desafio-12.js](Aula-012/desafio-12.js)
 
 [Voltar ao Índice](#indice)
 
