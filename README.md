@@ -99,6 +99,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - Métodos de objeto
    - Arrays - Métodos
 13. [Aula #13](#parte13)     
+   - Revisão desafio semana #12 - Parte 1
+   - Revisão desafio semana #12 - Parte 2
+   - Arrays - toString, concat, unshift e shift
+   - slice e splice
+   - forEach, every, some
+   - map, filter e desafio da semana #13
 14. [Aula #14](#parte14)     
 15. [Aula #15](#parte15)     
 16. [Aula #16](#parte16)     
@@ -319,7 +325,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte13">13 - Aula #13</a>
 
+75. Revisão desafio semana #12 - Parte 1
+76. Revisão desafio semana #12 - Parte 2
+77. Arrays - toString, concat, unshift e shift
+78. slice e splice
+79. forEach, every, some
+80. map, filter e desafio da semana #13
 
+[Aula-013/desafio-13.js](Aula-013/desafio-13.js)
 
 [Voltar ao Índice](#indice)
 
