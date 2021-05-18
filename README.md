@@ -106,6 +106,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - forEach, every, some
    - map, filter e desafio da semana #13
 14. [Aula #14](#parte14)     
+   - Revisão do desafio da semana #13 - Parte 1
+   - Revisão do desafio da semana #13 - parte 2
+   - Revisão do desafio da semana #13 - parte 3
+   - reduce() e reduceRight()
+   - indexOf(), lastIndexOf() e isArray()
+   - Desafio da semana #14
 15. [Aula #15](#parte15)     
 16. [Aula #16](#parte16)     
 17. [Aula #17](#parte17)     
@@ -341,7 +347,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte14">14 - Aula #14</a>
 
+81. Revisão do desafio da semana #13 - Parte 1
+82. Revisão do desafio da semana #13 - parte 2
+83. Revisão do desafio da semana #13 - parte 3
+84. reduce() e reduceRight()
+85. indexOf(), lastIndexOf() e isArray()
+86. Desafio da semana #14
 
+[Aula-014/desafio-14.js](Aula-014/desafio-14.js)
 
 [Voltar ao Índice](#indice)
 
