@@ -113,6 +113,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - indexOf(), lastIndexOf() e isArray()
    - Desafio da semana #14
 15. [Aula #15](#parte15)     
+   - Revisão do desafio da semana #14 - Parte 1
+   - Revisão do desafio da semana #14 - parte 2
+   - Revisão do desafio da semana #14 - parte 3
+   - JS no browser
+   - O objeto this
+   - Objeto arguments e desafio da semana #15
 16. [Aula #16](#parte16)     
 17. [Aula #17](#parte17)     
 18. [Aula #18](#parte18)     
@@ -363,7 +369,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte15">15 - Aula #15</a>
 
+87. Revisão do desafio da semana #14 - Parte 1
+88. Revisão do desafio da semana #14 - parte 2
+89. Revisão do desafio da semana #14 - parte 3
+90. JS no browser
+91. O objeto this
+92. Objeto arguments e desafio da semana #15
 
+[Aula-015/desafio-15.js](Aula-015/desafio-15.js)
 
 [Voltar ao Índice](#indice)
 
