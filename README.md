@@ -120,6 +120,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - O objeto this
    - Objeto arguments e desafio da semana #15
 16. [Aula #16](#parte16)     
+   - Revisão desafio da semana #15
+   - use strict - Criação de variáveis sem o "var"
+   - use strict - uso do with e global this === undefined
+   - use strict - o operador delete, objetos e funções
+   - Objeto String
+   - Objeto String - parte 2 e desafio da semana #16
 17. [Aula #17](#parte17)     
 18. [Aula #18](#parte18)     
 19. [Aula #19](#parte19)     
@@ -385,7 +391,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte16">16 - Aula #16</a>
 
+93. Revisão desafio da semana #15
+94. use strict - Criação de variáveis sem o "var"
+95. use strict - uso do with e global this === undefined
+96. use strict - o operador delete, objetos e funções
+97. Objeto String
+98. Objeto String - parte 2 e desafio da semana #16
 
+[Aula-016/desafio-16.js](Aula-016/desafio-16.js)
 
 [Voltar ao Índice](#indice)
 
