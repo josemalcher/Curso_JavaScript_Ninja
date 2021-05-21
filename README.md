@@ -127,6 +127,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - Objeto String
    - Objeto String - parte 2 e desafio da semana #16
 17. [Aula #17](#parte17)     
+   - Revisão do desafio da semana #16 - parte 1
+   - Revisão do desafio da semana #16 - parte 2
+   - Revisão do desafio da semana #16 - parte 3
+   - Regex - Parte 1
+   - Regex - parte 2
+   - Regex - parte 3
 18. [Aula #18](#parte18)     
 19. [Aula #19](#parte19)     
 20. [Aula #20](#parte20)     
@@ -407,7 +413,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte17">17 - Aula #17</a>
 
+99. Revisão do desafio da semana #16 - parte 1
+100. Revisão do desafio da semana #16 - parte 2
+101. Revisão do desafio da semana #16 - parte 3
+102. Regex - Parte 1
+103. Regex - parte 2
+104. Regex - parte 3
 
+[Aula-017/desafio-17.js](Aula-017/desafio-17.js)
 
 [Voltar ao Índice](#indice)
 
