@@ -134,6 +134,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
    - Regex - parte 2
    - Regex - parte 3
 18. [Aula #18](#parte18)     
+    - Revisão desafio da semana #17 - Parte 1
+    - Revisão desafio da semana #17 - parte 2
+    - Revisão desafio da semana #17 - parte 3
+    - Continuação de Regex
+    - Regex - Negação
+    - Regex - Repetidores
 19. [Aula #19](#parte19)     
 20. [Aula #20](#parte20)     
 21. [Aula #21](#parte21)     
@@ -429,7 +435,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte18">18 - Aula #18</a>
 
+105. Revisão desafio da semana #17 - Parte 1
+106. Revisão desafio da semana #17 - parte 2
+107. Revisão desafio da semana #17 - parte 3
+108. Continuação de Regex
+109. Regex - Negação
+110. Regex - Repetidores
 
+[Aula-018/desafio-18.js](Aula-018/desafio-18.js)
 
 [Voltar ao Índice](#indice)
 
