@@ -141,6 +141,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Regex - Negação
     - Regex - Repetidores
 19. [Aula #19](#parte19)     
+    - Revisão do desafio da semana #18 - Parte 1
+    - Revisão do desafio da semana #18 - parte 2
+    - Revisão do desafio da semana #18 - parte 3
+    - Conhecendo outros símbolos usados na Regex
+    - Métodos de string onde podemos usar regex
+    - O objeto RegExp()
 20. [Aula #20](#parte20)     
 21. [Aula #21](#parte21)     
 22. [Aula #22](#parte22)     
@@ -451,7 +457,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte19">19 - Aula #19</a>
 
+111. Revisão do desafio da semana #18 - Parte 1
+112. Revisão do desafio da semana #18 - parte 2
+113. Revisão do desafio da semana #18 - parte 3
+114. Conhecendo outros símbolos usados na Regex
+115. Métodos de string onde podemos usar regex
+116. O objeto RegExp()
 
+[Aula-019/desafio-19.js](Aula-019/desafio-19.js)
 
 [Voltar ao Índice](#indice)
 
