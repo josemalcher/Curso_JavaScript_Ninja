@@ -148,6 +148,13 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Métodos de string onde podemos usar regex
     - O objeto RegExp()
 20. [Aula #20](#parte20)     
+    - Revisão do desafio da semana #19 - Parte 1
+    - Revisão do desafio da semana #19 - parte 2
+    - Problemas com áudio no próximo video
+    - JS no browser - Selecionar elementos do DOM
+    - JS no browser - parte 2
+    - JS no browser - parte 3 - Selecionando elementos do DOM
+    - JS no browser - parte 4 - Formulários e eventos
 21. [Aula #21](#parte21)     
 22. [Aula #22](#parte22)     
 23. [Aula #23](#parte23)     
@@ -473,7 +480,16 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte20">20 - Aula #20</a>
 
+117. Revisão do desafio da semana #19 - Parte 1
+118. Revisão do desafio da semana #19 - parte 2
+119. Problemas com áudio no próximo video
+120. JS no browser - Selecionar elementos do DOM
+121. JS no browser - parte 2
+122. JS no browser - parte 3 - Selecionando elementos do DOM
+123. JS no browser - parte 4 - Formulários e eventos
 
+[Aula-020/desafio-020.js](Aula-020/desafio-020.js)
+[Aula-020/index.html](Aula-020/index.html)
 
 [Voltar ao Índice](#indice)
 
