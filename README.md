@@ -156,6 +156,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - JS no browser - parte 3 - Selecionando elementos do DOM
     - JS no browser - parte 4 - Formulários e eventos
 21. [Aula #21](#parte21)     
+    - Revisão do desafio da semana #20 - Parte 1
+    - Revisão do desafio da semana #20 - parte 2
+    - Revisão do desafio da semana #20 - parte 3
+    - Sync vs async
+    - setTimeout
+    - setTimeout vs setInterval
 22. [Aula #22](#parte22)     
 23. [Aula #23](#parte23)     
 24. [Aula #24](#parte24)     
@@ -498,7 +504,15 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte21">21 - Aula #21</a>
 
+124. Revisão do desafio da semana #20 - Parte 1
+125. Revisão do desafio da semana #20 - parte 2
+126. Revisão do desafio da semana #20 - parte 3
+127. Sync vs async
+128. setTimeout
+129. setTimeout vs setInterval
 
+[Aula-021/desafio-021.js](Aula-021/desafio-021.js)
+[Aula-021/index.html](Aula-021/index.html)
 
 [Voltar ao Índice](#indice)
 
