@@ -163,6 +163,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - setTimeout
     - setTimeout vs setInterval
 22. [Aula #22](#parte22)     
+    - Revisão do desafio da semana #21 - Parte 1
+    - Revisão do desafio da semana #21 - parte 2
+    - Propriedades e métodos de funções - parte 1
+    - Propriedades e métodos de funções - parte 2
+    - Prototype
+    - Array-like, editorconfig e desafio da semana #22
 23. [Aula #23](#parte23)     
 24. [Aula #24](#parte24)     
 25. [Aula #25](#parte25)     
@@ -521,7 +527,15 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte22">22 - Aula #22</a>
 
+130. Revisão do desafio da semana #21 - Parte 1
+131. Revisão do desafio da semana #21 - parte 2
+132. Propriedades e métodos de funções - parte 1
+133. Propriedades e métodos de funções - parte 2
+134. Prototype
+135. Array-like, editorconfig e desafio da semana #22
 
+[Aula-022/desafio-022.js](Aula-022/desafio-022.js)
+[Aula-022/index.html](Aula-022/index.html)
 
 [Voltar ao Índice](#indice)
 
