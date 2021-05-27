@@ -170,6 +170,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Prototype
     - Array-like, editorconfig e desafio da semana #22
 23. [Aula #23](#parte23)     
+    - Revisão do desafio da semana #22 - Parte 1
+    - Revisão do desafio da semana #22 - parte 2
+    - Debug - parte 1
+    - Debug - parte 2
+    - Debug - parte 3
+    - Debug - parte 4
 24. [Aula #24](#parte24)     
 25. [Aula #25](#parte25)     
 26. [Aula #26](#parte26)     
@@ -500,8 +506,8 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 122. JS no browser - parte 3 - Selecionando elementos do DOM
 123. JS no browser - parte 4 - Formulários e eventos
 
-[Aula-020/desafio-020.js](Aula-020/desafio-020.js)
-[Aula-020/index.html](Aula-020/index.html)
+- [Aula-020/desafio-020.js](Aula-020/desafio-020.js)
+- [Aula-020/index.html](Aula-020/index.html)
 
 [Voltar ao Índice](#indice)
 
@@ -517,8 +523,8 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 128. setTimeout
 129. setTimeout vs setInterval
 
-[Aula-021/desafio-021.js](Aula-021/desafio-021.js)
-[Aula-021/index.html](Aula-021/index.html)
+- [Aula-021/desafio-021.js](Aula-021/desafio-021.js)
+- [Aula-021/index.html](Aula-021/index.html)
 
 [Voltar ao Índice](#indice)
 
@@ -534,8 +540,8 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 134. Prototype
 135. Array-like, editorconfig e desafio da semana #22
 
-[Aula-022/desafio-022.js](Aula-022/desafio-022.js)
-[Aula-022/index.html](Aula-022/index.html)
+- [Aula-022/desafio-022.js](Aula-022/desafio-022.js)
+- [Aula-022/index.html](Aula-022/index.html)
 
 [Voltar ao Índice](#indice)
 
@@ -544,7 +550,15 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte23">23 - Aula #23</a>
 
+136. Revisão do desafio da semana #22 - Parte 1
+137. Revisão do desafio da semana #22 - parte 2
+138. Debug - parte 1
+139. Debug - parte 2
+140. Debug - parte 3
+141. Debug - parte 4
 
+- [Aula-023/desafio-023.js](Aula-023/desafio-023.js)
+- [Aula-023/index.html](Aula-023/index.html)
 
 [Voltar ao Índice](#indice)
 
