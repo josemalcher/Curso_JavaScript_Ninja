@@ -177,6 +177,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Debug - parte 3
     - Debug - parte 4
 24. [Aula #24](#parte24)     
+    - Revisão do desafio da semana #23
+    - Modularização de código - parte 2
+    - Modularização de código - parte 3
+    - Modularização de código - parte 4
+    - Modularização de código - parte 5
+    - Modularização de código - parte 6
 25. [Aula #25](#parte25)     
 26. [Aula #26](#parte26)     
 27. [Aula #27](#parte27)     
@@ -567,7 +573,15 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte24">24 - Aula #24</a>
 
+142. Revisão do desafio da semana #23
+143. Modularização de código - parte 2
+144. Modularização de código - parte 3
+145. Modularização de código - parte 4
+146. Modularização de código - parte 5
+147. Modularização de código - parte 6
 
+- [Aula-024/desafio-024.js](Aula-024/desafio-024.js)
+- [Aula-024/index.html](Aula-024/index.html)
 
 [Voltar ao Índice](#indice)
 
