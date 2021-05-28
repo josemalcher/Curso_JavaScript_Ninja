@@ -184,6 +184,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Modularização de código - parte 5
     - Modularização de código - parte 6
 25. [Aula #25](#parte25)     
+    - Revisão do desafio da semana #24 - Parte 1
+    - Revisão do desafio da semana #24 - parte 2
+    - Revisão do desafio da semana #24 - parte 3
+    - Scripts e eventos inline
+    - Eventos
+    - Mais eventos por elemento
 26. [Aula #26](#parte26)     
 27. [Aula #27](#parte27)     
 28. [Aula #28](#parte28)     
@@ -590,7 +596,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte25">25 - Aula #25</a>
 
+148. Revisão do desafio da semana #24 - Parte 1
+149. Revisão do desafio da semana #24 - parte 2
+150. Revisão do desafio da semana #24 - parte 3
+151. Scripts e eventos inline
+152. Eventos
+153. Mais eventos por elemento
 
+- [Aula-025/desafio-025.js](Aula-025/desafio-025.js)
 
 [Voltar ao Índice](#indice)
 
