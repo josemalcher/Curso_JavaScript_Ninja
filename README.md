@@ -191,6 +191,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Eventos
     - Mais eventos por elemento
 26. [Aula #26](#parte26)     
+    - O que é DOM e como percorrer os elementos da árvore
+    - Percorrer DOM - Propriedades - parte 1
+    - Percorrer DOM - Propriedades - parte 2
+    - Percorrer DOM - Métodos - parte 1
+    - Percorrer DOM - Métodos - parte 2
+    - Percorrer DOM - Atributos
 27. [Aula #27](#parte27)     
 28. [Aula #28](#parte28)     
 29. [Aula #29](#parte29)     
@@ -612,7 +618,15 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte26">26 - Aula #26</a>
 
+154. O que é DOM e como percorrer os elementos da árvore
+155. Percorrer DOM - Propriedades - parte 1
+156. Percorrer DOM - Propriedades - parte 2
+157. Percorrer DOM - Métodos - parte 1
+158. Percorrer DOM - Métodos - parte 2
+159. Percorrer DOM - Atributos
 
+- [Aula-026/desafio-026.js](Aula-026/desafio-026.js)
+- [Aula-026/index.html](Aula-026/index.html)
 
 [Voltar ao Índice](#indice)
 
