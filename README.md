@@ -198,6 +198,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Percorrer DOM - Métodos - parte 2
     - Percorrer DOM - Atributos
 27. [Aula #27](#parte27)     
+    - Revisão desafio da semana #26 - Parte 1
+    - Revisão desafio da semana #26 - Parte 2
+    - Revisão desafio da semana #26 - Parte 3 e DOM Fragments
+    - Eventos
+    - Técnicas Ninja
+    - Desafio da semana #27
 28. [Aula #28](#parte28)     
 29. [Aula #29](#parte29)     
 30. [Aula #30](#parte30)     
@@ -635,7 +641,15 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte27">27 - Aula #27</a>
 
+160. Revisão desafio da semana #26 - Parte 1
+161. Revisão desafio da semana #26 - Parte 2
+162. Revisão desafio da semana #26 - Parte 3 e DOM Fragments
+163. Eventos
+164. Técnicas Ninja
+165. Desafio da semana #27
 
+- [Aula-027/desafio-027.js](Aula-027/desafio-027.js)
+- [Aula-027/index.html](Aula-027/index.html)
 
 [Voltar ao Índice](#indice)
 
