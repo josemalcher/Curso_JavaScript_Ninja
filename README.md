@@ -205,6 +205,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Técnicas Ninja
     - Desafio da semana #27
 28. [Aula #28](#parte28)     
+    - Revisão desafio da semana #27 - Parte 1
+    - Revisão desafio da semana #27 - Parte 2
+    - Correção da implementação dos métodos estáticos
+    - Introdução à Ajax
+    - Ajax - Parte 2
+    - Ajax - Parte 3
+    - Antes de resolver o desafio 28, por favor, leia!
+    - Ajax - Parte 4, try/catch e desafio da semana #28
 29. [Aula #29](#parte29)     
 30. [Aula #30](#parte30)     
 31. [Aula #31](#parte31)     
@@ -658,7 +666,17 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte28">28 - Aula #28</a>
 
+166. Revisão desafio da semana #27 - Parte 1
+167. Revisão desafio da semana #27 - Parte 2
+168. Correção da implementação dos métodos estáticos
+169. Introdução à Ajax
+170. Ajax - Parte 2
+171. Ajax - Parte 3
+172. Antes de resolver o desafio 28, por favor, leia!
+173. Ajax - Parte 4, try/catch e desafio da semana #28
 
+- [Aula-028/desafio-028.js](Aula-028/desafio-028.js)
+- [Aula-028/index.html](Aula-028/index.html)
 
 [Voltar ao Índice](#indice)
 
