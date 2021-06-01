@@ -214,6 +214,12 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Antes de resolver o desafio 28, por favor, leia!
     - Ajax - Parte 4, try/catch e desafio da semana #28
 29. [Aula #29](#parte29)     
+    - Revisão desafio da semana #28 - Parte 1
+    - Revisão desafio da semana #28 - Parte 2
+    - Revisão desafio da semana #28 - Parte 3
+    - Revisão desafio da semana #28 - Parte 4
+    - Module Pattern
+    - Module Pattern - parte 2 e desafio da semana #29
 30. [Aula #30](#parte30)     
 31. [Aula #31](#parte31)     
 32. [Aula #32](#parte32)     
@@ -685,7 +691,17 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte29">29 - Aula #29</a>
 
+174. Revisão desafio da semana #28 - Parte 1
+175. Revisão desafio da semana #28 - Parte 2
+176. Revisão desafio da semana #28 - Parte 3
+177. Revisão desafio da semana #28 - Parte 4
+178. Module Pattern
+179. Module Pattern - parte 2 e desafio da semana #29
 
+- [Aula-029/desafio-029.js](Aula-029/desafio-029.js)
+- [Aula-029/index.html](Aula-029/index.html)
+- [Aula-029/dom.js](Aula-029/dom.js)
+- [Aula-029/company.json](Aula-029/company.json)
 
 [Voltar ao Índice](#indice)
 
