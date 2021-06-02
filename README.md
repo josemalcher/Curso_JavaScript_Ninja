@@ -761,7 +761,7 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 196. Ajax - POST - Parte 2
 197. Ajax - POST - Parte 3
 
-
+- [Aula-032/desafio-032.js](Aula-032/desafio-032.js)
 
 [Voltar ao Índice](#indice)
 
@@ -777,7 +777,7 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 202. TDD Style
 203. Documentação do Mocha e Code Coverage
 
-
+- [Aula-033/desafio-033.js](Aula-033/desafio-033.js)
 
 [Voltar ao Índice](#indice)
 
@@ -793,7 +793,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 208. Diferenças entre console.log e return
 209. Objetos e encerramento
 
-
+- [JavaScript Semi-Standard Style](https://github.com/standard/semistandard)
+- [JavaScript Standard Style](https://github.com/standard/standard)
+- [jslint](https://www.jslint.com/)
+- [jshint](https://jshint.com/)
+- [JSCS has merged with ESLint!](https://jscs-dev.github.io/)
+- [ESLint](https://eslint.org/)
+- [UglifyJS](https://www.npmjs.com/package/uglify-js)
+- [Deprecated and obsolete features](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features)
 
 [Voltar ao Índice](#indice)
 
