@@ -221,7 +221,19 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
     - Module Pattern
     - Module Pattern - parte 2 e desafio da semana #29
 30. [Aula #30](#parte30)     
+    - Revisão desafio da semana #29 - Parte 1
+    - Revisão desafio da semana #29 - Parte 2
+    - Revisão desafio da semana #29 - Parte 3
+    - Revisão desafio da semana #29 - Parte 4
+    - Revisão desafio da semana #29 - Parte 5
+    - Module Pattern - closure e desafio #30
 31. [Aula #31](#parte31)     
+    - DOM - innerHTML
+    - DOM - innerHTML - Problemas de segurança
+    - DOM - insertAdjacentHTML
+    - O objeto Date
+    - O objeto Date - Propriedades e métodos
+    - Conhecendo o objeto Math
 32. [Aula #32](#parte32)     
 33. [Aula #33](#parte33)     
 34. [Aula #34 - BÔNUS](#parte34)     
@@ -710,7 +722,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte30">30 - Aula #30</a>
 
+180. Revisão desafio da semana #29 - Parte 1
+181. Revisão desafio da semana #29 - Parte 2
+182. Revisão desafio da semana #29 - Parte 3
+183. Revisão desafio da semana #29 - Parte 4
+184. Revisão desafio da semana #29 - Parte 5
+185. Module Pattern - closure e desafio #30
 
+- [Aula-030/desafio-030.js](Aula-030/desafio-030.js)
 
 [Voltar ao Índice](#indice)
 
@@ -719,7 +738,14 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte31">31 - Aula #31</a>
 
+186. DOM - innerHTML
+187. DOM - innerHTML - Problemas de segurança
+188. DOM - insertAdjacentHTML
+189. O objeto Date
+190. O objeto Date - Propriedades e métodos
+191. Conhecendo o objeto Math
 
+- [Aula-031/desafio-031.js](Aula-031/desafio-031.js)
 
 [Voltar ao Índice](#indice)
 
@@ -727,6 +753,13 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 
 ## <a name="parte32">32 - Aula #32</a>
+
+192. Ajax
+193. REST Api
+194. REST Api - Cors
+195. Ajax - sync - POST
+196. Ajax - POST - Parte 2
+197. Ajax - POST - Parte 3
 
 
 
@@ -737,6 +770,13 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 ## <a name="parte33">33 - Aula #33</a>
 
+198. Testes
+199. Escrevendo os primeiros testes
+200. Entendendo o escopo Red - Green - Blue
+201. Escrevendo mais testes
+202. TDD Style
+203. Documentação do Mocha e Code Coverage
+
 
 
 [Voltar ao Índice](#indice)
@@ -745,6 +785,13 @@ O mercado de trabalho precisa de desenvolvedores que saibam o que estão fazendo
 
 
 ## <a name="parte34">34 - Aula #34 - BÔNUS</a>
+
+204. Introdução
+205. Uglify.js - parte 1
+206. Uglify.js - parte 2
+207. Sourcemaps
+208. Diferenças entre console.log e return
+209. Objetos e encerramento
 
 
 
